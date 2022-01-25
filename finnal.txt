@@ -1,0 +1,14 @@
+Votre Nom   :aymane
+Votre prenom:bendahmane
+Votre Adress:jadida_315
+Votre ville :ELjadida
+Votre pays  :maroc
+Votre Phone :0655599909
+Votre Email :aymane.bendahmane14@gmail.com
+----------------------------------------------
+========>Debut : 19      | Fin   : 20
+========>Nombre de Jours : 1
+========>Votre Choix     : EL_MORABITINE
+========>Room Number     : 1362
+========>Prix            : 400.000000DH
+----------------------------------------------

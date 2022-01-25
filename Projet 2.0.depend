@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1519675413 source:c:\users\freeware sys\desktop\projet 2.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio2.h>
+	<windows.h>
+

@@ -1,0 +1,33 @@
+Nbr Hotel: 2
+Nombre d'etoiles  : 5
+Hotel name        : IBIS
+Hotel adress      : PLACE_Nour_El_KARMA_Rout_De_CASA,ELJADIDA24000
+Cph (FAUX/VRAI)   : Vrai
+Numero hotel      : 648321598
+Nombre de chambre : 3
+Le numero du Chambre    : 10
+Le telephone du Chambre : 699887733
+Le nombre de categorie  : 1
+Code categore           : 1632
+Le numero du Chambre    : 11
+Le telephone du Chambre : 632459871
+Le nombre de categorie  : 1
+Code categore           : 4871
+Le numero du Chambre    : 13
+Le telephone du Chambre : 613121516
+Le nombre de categorie  : 1
+Code categore           : 1516
+Nombre d'etoiles  : 4
+Hotel name        : EL_MORABITINE
+Hotel adress      : Angle_Avenue_Mohamed_VI_et_Avenue_Enakhil,ELJADIDA
+Cph (FAUX/VRAI)   : Faux
+Numero hotel      : 615354899
+Nombre de chambre : 2
+Le numero du Chambre    : 1009
+Le telephone du Chambre : 643789561
+Le nombre de categorie  : 1
+Code categore           : 1010
+Le numero du Chambre    : 1362
+Le telephone du Chambre : 642167397
+Le nombre de categorie  : 1
+Code categore           : 2020
